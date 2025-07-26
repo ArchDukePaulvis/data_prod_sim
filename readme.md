@@ -13,7 +13,7 @@ The project is built entirely in Python and mimics aspects of platforms like **d
 
 ---
 
-## 🔍 Business Use Case
+## Business Use Case
 
 A fictional e-commerce retailer needs a reliable data pipeline to analyze daily order activity. Key business requirements include:
 
