@@ -1,4 +1,4 @@
-# 🧱 Data Product Simulation: Orders Pipeline with Metadata, Validation, and Lineage
+# Data Product Simulation: Orders Pipeline with Metadata, Validation, and Lineage
 
 ## Overview
 
@@ -26,7 +26,7 @@ This solution reduces ad hoc manual reporting, increases trust in self-service d
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component              | Tool/Library         |
 |------------------------|----------------------|
@@ -39,7 +39,7 @@ This solution reduces ad hoc manual reporting, increases trust in self-service d
 
 ---
 
-## 🔄 Pipeline Flow
+## Pipeline Flow
 
 ```text
 Raw CSV (orders.csv)
